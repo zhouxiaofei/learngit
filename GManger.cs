@@ -16,7 +16,7 @@ public class GManger : MonoBehaviour
     public Image TimeCaveff;          //时光之穴
     public Image MailBoxff;           //信箱
     public Image Battle;            //战役（pve）
-    public Image TopPvP;            //巅峰竞技场
+    public Image TopPvPff;            //巅峰竞技场
     public Image Tavern;            //召唤师法阵（酒馆，抽包的坑）
     public Image Arena;             //竞技场（pvp）
     public Image Shop;              //商店
