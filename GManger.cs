@@ -13,7 +13,7 @@ public class GManger : MonoBehaviour
     public Image Treasure;          //宝藏地穴
     public Image Rank;              //排行榜
     public Image PredictionPool;    //预言之池
-    public Image TimeCave;          //时光之穴
+    public Image TimeCaveff;          //时光之穴
     public Image MailBox;           //信箱
     public Image Battle;            //战役（pve）
     public Image TopPvP;            //巅峰竞技场
