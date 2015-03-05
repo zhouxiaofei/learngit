@@ -23,7 +23,7 @@ public class GManger : MonoBehaviour
     public Image Awake;             //洗练（觉醒）
     public Image Exercise;          //英雄试炼
     public Image EnhanceFF;           //装备附魔（强化）
-    public Image Guild;             //公会
+    public Image GuildFF;             //公会
     public Image Flyzhou;
 
 	void Start () 
