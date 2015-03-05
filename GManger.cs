@@ -24,7 +24,7 @@ public class GManger : MonoBehaviour
     public Image Exercise;          //英雄试炼
     public Image EnhanceFF;           //装备附魔（强化）
     public Image Guild;             //公会
-    public Image Flyzhou;
+    public Image Flyzhouzhou;
 
 	void Start () 
     {
